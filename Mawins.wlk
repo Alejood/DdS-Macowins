@@ -11,7 +11,7 @@ object nueva{
       method conversion(precio) = precio
 }
 
-Class Promocion{
+class Promocion{
       const descuento
       
       method conversion(precio) = precio - descuento
